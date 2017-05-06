@@ -20,6 +20,8 @@ gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.2'
 # A ruby wrapper for ImageMagick
 gem "mini_magick"
+# Rails Content Management System & blogging engine
+gem "storytime"
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
